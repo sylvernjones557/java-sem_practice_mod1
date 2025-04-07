@@ -1,7 +1,6 @@
 # java-sem_practice_mod1
 java semester practice questions on the topic number handling questions 2024-25
 questions handled
-Ah got it! You're looking for a **question paper-style** prompt — like how it would appear in an exam. Super helpful for both practice and revision. Here's how you can structure it, covering **all the concepts** you mentioned:
 
 ---
 
